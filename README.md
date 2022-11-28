@@ -13,4 +13,9 @@ Here we can find my first project as a studend from 42 Porto!
 <li><a href="https://github.com/MiguelFernandesTech/Libft/blob/8a6c870ade020200bc509031d396a129efae93fd/libft/ft_isdigit.c"><code>ft_isdigit</code></a>			- decimal-digit character test.</li>
 <li><a href="https://github.com/MiguelFernandesTech/Libft/blob/8a6c870ade020200bc509031d396a129efae93fd/libft/ft_isprint.c"><code>ft_isprint</code></a>			- printing character test (space character inclusive).</li>
 <li><a href="https://github.com/MiguelFernandesTech/Libft/blob/8a6c870ade020200bc509031d396a129efae93fd/libft/ft_atoi.c"><code>ft_atoi</code></a>			- convert ASCII string to integer.</li>
+<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/824ff425054fcf455b4a12113a28bdf09acf94f5/libft/ft_calloc.c"><code>ft_calloc</code></a>			- memory allocation.</li>
+<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/824ff425054fcf455b4a12113a28bdf09acf94f5/libft/ft_bzero.c"><code>ft_bzero</code></a>			- write zeroes to a byte string.</li>
+<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/824ff425054fcf455b4a12113a28bdf09acf94f5/libft/ft_memset.c"><code>ft_memset</code></a>			- write a byte to a byte string.</li>
+<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/824ff425054fcf455b4a12113a28bdf09acf94f5/libft/ft_memchr.c"><code>ft_memchr</code></a>			- locate byte in byte string.</li>
+<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/824ff425054fcf455b4a12113a28bdf09acf94f5/libft/ft_memcmp.c"><code>ft_memcmp</code></a>			- compare byte string.</li>
 </ul>
