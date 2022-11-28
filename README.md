@@ -18,4 +18,7 @@ Here we can find my first project as a studend from 42 Porto!
 <li><a href="https://github.com/MiguelFernandesTech/Libft/blob/824ff425054fcf455b4a12113a28bdf09acf94f5/libft/ft_memset.c"><code>ft_memset</code></a>			- write a byte to a byte string.</li>
 <li><a href="https://github.com/MiguelFernandesTech/Libft/blob/824ff425054fcf455b4a12113a28bdf09acf94f5/libft/ft_memchr.c"><code>ft_memchr</code></a>			- locate byte in byte string.</li>
 <li><a href="https://github.com/MiguelFernandesTech/Libft/blob/824ff425054fcf455b4a12113a28bdf09acf94f5/libft/ft_memcmp.c"><code>ft_memcmp</code></a>			- compare byte string.</li>
+<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/ac1ee820c259f787ed78145e26e351402a27a11a/libft/ft_memmove.c"><code>ft_memmove</code></a>			- copy byte string.</li>
+<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/ac1ee820c259f787ed78145e26e351402a27a11a/libft/ft_memcpy.c"><code>ft_memcpy</code></a>			- copy memory area.</li>
+<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/ac1ee820c259f787ed78145e26e351402a27a11a/libft/ft_strlen.c"><code>ft_strlen</code></a>			- find length of string.</li>
 </ul>
