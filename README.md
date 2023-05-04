@@ -4,21 +4,8 @@
 
 Here we can find my first project as a studend from 42 Porto! 
 
-<ul dir="auto">
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/b53d8fddd5652c0be879c3ee59a3df97a3a9e158/libft/ft_isascii.c"><code>ft_isascii</code></a>			- test for ASCII character.</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/8a6c870ade020200bc509031d396a129efae93fd/libft/ft_isalnum.c"><code>ft_isalnum</code></a>			- alphanumeric character test.</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/8a6c870ade020200bc509031d396a129efae93fd/libft/ft_isalpha.c"><code>ft_isalpha</code></a>			- alphabetic character test.</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/8a6c870ade020200bc509031d396a129efae93fd/libft/ft_tolower.c"><code>ft_tolower</code></a>			- lower-case character test.</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/8a6c870ade020200bc509031d396a129efae93fd/libft/ft_toupper.c"><code>ft_toupper</code></a>			- upper-case character test.</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/8a6c870ade020200bc509031d396a129efae93fd/libft/ft_isdigit.c"><code>ft_isdigit</code></a>			- decimal-digit character test.</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/8a6c870ade020200bc509031d396a129efae93fd/libft/ft_isprint.c"><code>ft_isprint</code></a>			- printing character test (space character inclusive).</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/8a6c870ade020200bc509031d396a129efae93fd/libft/ft_atoi.c"><code>ft_atoi</code></a>			- convert ASCII string to integer.</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/824ff425054fcf455b4a12113a28bdf09acf94f5/libft/ft_calloc.c"><code>ft_calloc</code></a>			- memory allocation.</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/824ff425054fcf455b4a12113a28bdf09acf94f5/libft/ft_bzero.c"><code>ft_bzero</code></a>			- write zeroes to a byte string.</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/824ff425054fcf455b4a12113a28bdf09acf94f5/libft/ft_memset.c"><code>ft_memset</code></a>			- write a byte to a byte string.</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/824ff425054fcf455b4a12113a28bdf09acf94f5/libft/ft_memchr.c"><code>ft_memchr</code></a>			- locate byte in byte string.</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/824ff425054fcf455b4a12113a28bdf09acf94f5/libft/ft_memcmp.c"><code>ft_memcmp</code></a>			- compare byte string.</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/ac1ee820c259f787ed78145e26e351402a27a11a/libft/ft_memmove.c"><code>ft_memmove</code></a>			- copy byte string.</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/ac1ee820c259f787ed78145e26e351402a27a11a/libft/ft_memcpy.c"><code>ft_memcpy</code></a>			- copy memory area.</li>
-<li><a href="https://github.com/MiguelFernandesTech/Libft/blob/ac1ee820c259f787ed78145e26e351402a27a11a/libft/ft_strlen.c"><code>ft_strlen</code></a>			- find length of string.</li>
-</ul>
+Libft is a foundational project in the world of programming that involves creating a C library from scratch. The purpose of this project is to give me an opportunity to build a collection of essential functions that I can use in your future programming endeavors. This library will contain a range of general-purpose functions that can be used in a variety of programs, such as string manipulation, memory allocation, linked lists, and more.
+
+Creating this library requires to write high-quality, efficient code that is both modular and reusable. It is also an opportunity to develop my coding skills by learning about data structures, algorithms, and how to optimize your code for performance.
+
+By the end of this project, I developed a useful library of functions that I can rely upon in my future projects.
